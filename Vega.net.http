@@ -1,0 +1,6 @@
+@Vega.net_HostAddress = http://localhost:5084
+
+GET {{Vega.net_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
