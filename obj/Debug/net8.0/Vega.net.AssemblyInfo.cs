@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vega.net")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78fd4aad111cca970f12f1d4f5c0b9ef62090313")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59e4a0cdfac38aca057c4dbde13577c2826d1478")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vega.net")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vega.net")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
