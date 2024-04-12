@@ -12,4 +12,6 @@ public class VegaDbContext : DbContext
  public DbSet<Make> Makes { get; set; }
 
 public DbSet<Vega.net.Model> Models { get; set; } = default!;
+
+public DbSet<Feature> Features { get; set; }
 }
