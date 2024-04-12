@@ -8,6 +8,7 @@ public class MappingProfile : Profile
     {
         CreateMap<Model, ModelResource>();
         CreateMap<Make, MakeResource>();
+        CreateMap<Feature, FeatureResource>();
     }
 
 }
